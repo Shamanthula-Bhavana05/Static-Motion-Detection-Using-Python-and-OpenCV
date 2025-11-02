@@ -14,7 +14,7 @@ It highlights the ROI using a green rectangle and displays “Motion Detected”
 
 ## 🎥 Demo Video
 
-▶️ **[Watch on YouTube]()**
+▶️ **[Watch on YouTube](https://youtu.be/dP2nG4MaRso)**
 
 ---
 
