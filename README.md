@@ -22,7 +22,7 @@ It highlights the ROI using a green rectangle and displays “Motion Detected”
 
 **Bhavana Shamanthula**
 🔗 [LinkedIn Profile](www.linkedin.com/in/shamanthula-bhavana-7343bb331)
-🔗 [GitHub Repository]()
+🔗 [GitHub Repository](https://github.com/Shamanthula-Bhavana05/Static-Motion-Detection-Using-Python-and-OpenCV)
 
 ---
 
